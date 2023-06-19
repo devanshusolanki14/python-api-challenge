@@ -1,0 +1,618 @@
+Tasiilaq with city ID:3424607 was found in the Weathermap API
+Halifax with city ID:6324729 was found in the Weathermap API
+Jamestown with city ID:3370903 was found in the Weathermap API
+Dikson with city ID:1507390 was found in the Weathermap API
+Puerto Ayora with city ID:3652764 was found in the Weathermap API
+Cape Town with city ID:3369157 was found in the Weathermap API
+Mar del Plata with city ID:3430863 was found in the Weathermap API
+sug-aksy,ru was not found in the Weathermap API
+potgietersrus,za was not found in the Weathermap API
+Albany with city ID:2077963 was found in the Weathermap API
+Bluff with city ID:2206939 was found in the Weathermap API
+Nouadhibou with city ID:2377457 was found in the Weathermap API
+Bonavista with city ID:5905393 was found in the Weathermap API
+Katsuura with city ID:2112309 was found in the Weathermap API
+Constitucion with city ID:4011743 was found in the Weathermap API
+Kodiak with city ID:5866583 was found in the Weathermap API
+Chokurdakh with city ID:2126123 was found in the Weathermap API
+Provideniya with city ID:4031574 was found in the Weathermap API
+Kavieng with city ID:2094342 was found in the Weathermap API
+Nikolskoye with city ID:546105 was found in the Weathermap API
+Leningradskiy with city ID:2123814 was found in the Weathermap API
+Caravelas with city ID:3466980 was found in the Weathermap API
+Bairiki Village with city ID:7601762 was found in the Weathermap API
+San Quintin with city ID:3984997 was found in the Weathermap API
+Tabou with city ID:2281120 was found in the Weathermap API
+East London with city ID:1006984 was found in the Weathermap API
+airai,pw was not found in the Weathermap API
+Yerbogachen with city ID:2012956 was found in the Weathermap API
+Thompson with city ID:6165406 was found in the Weathermap API
+Clyde River with city ID:5924351 was found in the Weathermap API
+Hobart with city ID:2163355 was found in the Weathermap API
+Vaini with city ID:4032243 was found in the Weathermap API
+Acapulco de Juarez with city ID:3533462 was found in the Weathermap API
+Ushuaia with city ID:3833367 was found in the Weathermap API
+mataura,pf was not found in the Weathermap API
+Avarua with city ID:4035715 was found in the Weathermap API
+Carnarvon with city ID:2074865 was found in the Weathermap API
+Atar with city ID:2381334 was found in the Weathermap API
+Portland with city ID:2152667 was found in the Weathermap API
+Castro with city ID:3896218 was found in the Weathermap API
+Krasnyy Yar with city ID:541349 was found in the Weathermap API
+Altay with city ID:1529651 was found in the Weathermap API
+Port Hedland with city ID:2063042 was found in the Weathermap API
+Vizinga with city ID:473263 was found in the Weathermap API
+Bethel with city ID:5282297 was found in the Weathermap API
+Tamandare with city ID:3386931 was found in the Weathermap API
+barentsburg,sj was not found in the Weathermap API
+Punta Arenas with city ID:3874787 was found in the Weathermap API
+Atuona with city ID:4020109 was found in the Weathermap API
+Cam Ranh with city ID:1586350 was found in the Weathermap API
+Torbay with city ID:6167817 was found in the Weathermap API
+Stolin with city ID:621277 was found in the Weathermap API
+Richmond with city ID:962330 was found in the Weathermap API
+Sipe Sipe with city ID:3904221 was found in the Weathermap API
+mys shmidta,ru was not found in the Weathermap API
+Esperance with city ID:2071860 was found in the Weathermap API
+Port Lincoln with city ID:2063036 was found in the Weathermap API
+Roald with city ID:3141667 was found in the Weathermap API
+sentyabrskiy,ru was not found in the Weathermap API
+Darhan with city ID:2031964 was found in the Weathermap API
+attawapiskat,ca was not found in the Weathermap API
+Sao Joao dos Patos with city ID:3388615 was found in the Weathermap API
+Deputatsky with city ID:2028164 was found in the Weathermap API
+Sawtell with city ID:2150163 was found in the Weathermap API
+Rikitea with city ID:4030556 was found in the Weathermap API
+Aklavik with city ID:5882953 was found in the Weathermap API
+Marsabit with city ID:187585 was found in the Weathermap API
+Talnakh with city ID:1490256 was found in the Weathermap API
+Severnoye with city ID:1492607 was found in the Weathermap API
+Kapaa with city ID:5848280 was found in the Weathermap API
+Ponta do Sol with city ID:3374346 was found in the Weathermap API
+Barrow with city ID:5880054 was found in the Weathermap API
+Roebourne with city ID:2062276 was found in the Weathermap API
+Peniche with city ID:2264923 was found in the Weathermap API
+Yellowknife with city ID:6185377 was found in the Weathermap API
+Khatanga with city ID:2022572 was found in the Weathermap API
+Necochea with city ID:3430443 was found in the Weathermap API
+Saldanha with city ID:3361934 was found in the Weathermap API
+Vostok with city ID:2013279 was found in the Weathermap API
+Pisco with city ID:3932145 was found in the Weathermap API
+saleaula,ws was not found in the Weathermap API
+Borovichi with city ID:572154 was found in the Weathermap API
+Leh with city ID:1264976 was found in the Weathermap API
+Russell with city ID:2188874 was found in the Weathermap API
+Langxiang with city ID:2036237 was found in the Weathermap API
+Pevek with city ID:2122090 was found in the Weathermap API
+samusu,ws was not found in the Weathermap API
+Villazon with city ID:3901501 was found in the Weathermap API
+Hithadhoo with city ID:1282256 was found in the Weathermap API
+Kanaya with city ID:1860256 was found in the Weathermap API
+Bredasdorp with city ID:1015776 was found in the Weathermap API
+Arequipa with city ID:3947322 was found in the Weathermap API
+Hilo with city ID:5855927 was found in the Weathermap API
+Cayon with city ID:3575487 was found in the Weathermap API
+Busselton with city ID:2075265 was found in the Weathermap API
+taolanaro,mg was not found in the Weathermap API
+Sao Benedito do Rio Preto with city ID:3389012 was found in the Weathermap API
+Port Alfred with city ID:964432 was found in the Weathermap API
+bereda,so was not found in the Weathermap API
+Burnie with city ID:2173125 was found in the Weathermap API
+amderma,ru was not found in the Weathermap API
+Tuktoyaktuk with city ID:6170031 was found in the Weathermap API
+Hermanus with city ID:3366880 was found in the Weathermap API
+San Ramon with city ID:3905088 was found in the Weathermap API
+Comodoro Rivadavia with city ID:3860443 was found in the Weathermap API
+Ballina with city ID:2177069 was found in the Weathermap API
+Manaure with city ID:3675504 was found in the Weathermap API
+Butaritari with city ID:2110227 was found in the Weathermap API
+Sur with city ID:286245 was found in the Weathermap API
+japura,br was not found in the Weathermap API
+Mahebourg with city ID:934322 was found in the Weathermap API
+Robertson with city ID:3362349 was found in the Weathermap API
+Saint-Philippe with city ID:935215 was found in the Weathermap API
+Ortakoy with city ID:303290 was found in the Weathermap API
+Ribeira Grande with city ID:3372707 was found in the Weathermap API
+Quelimane with city ID:1028434 was found in the Weathermap API
+Longyearbyen with city ID:2729907 was found in the Weathermap API
+Georgetown with city ID:2411397 was found in the Weathermap API
+Manacapuru with city ID:3663529 was found in the Weathermap API
+Tiksi with city ID:2015306 was found in the Weathermap API
+Indianola with city ID:4861719 was found in the Weathermap API
+Kruisfontein with city ID:986717 was found in the Weathermap API
+Mariental with city ID:3355595 was found in the Weathermap API
+Parana with city ID:3841956 was found in the Weathermap API
+Rundu with city ID:3353383 was found in the Weathermap API
+Cidreira with city ID:3466165 was found in the Weathermap API
+Los Llanos de Aridane with city ID:2514651 was found in the Weathermap API
+Mandurah with city ID:2067119 was found in the Weathermap API
+Bandarbeyla with city ID:64814 was found in the Weathermap API
+Muros with city ID:3115824 was found in the Weathermap API
+anar darreh,af was not found in the Weathermap API
+Maragogi with city ID:3395458 was found in the Weathermap API
+Geraldton with city ID:2070998 was found in the Weathermap API
+Misratah with city ID:2214846 was found in the Weathermap API
+Matay with city ID:352628 was found in the Weathermap API
+Gamovo with city ID:562070 was found in the Weathermap API
+bolungarvik,is was not found in the Weathermap API
+Adrar with city ID:2508807 was found in the Weathermap API
+Jeremie with city ID:3723593 was found in the Weathermap API
+Funadhoo with city ID:1337620 was found in the Weathermap API
+illoqqortoormiut,gl was not found in the Weathermap API
+Gubkinskiy with city ID:1539209 was found in the Weathermap API
+Kaitangata with city ID:2208248 was found in the Weathermap API
+ozgon,kg was not found in the Weathermap API
+Harper with city ID:2276492 was found in the Weathermap API
+Fort Nelson with city ID:5955902 was found in the Weathermap API
+Zahesi with city ID:611093 was found in the Weathermap API
+Usinsk with city ID:863061 was found in the Weathermap API
+goderich,sl was not found in the Weathermap API
+Raudeberg with city ID:3146487 was found in the Weathermap API
+Rio Gallegos with city ID:3838859 was found in the Weathermap API
+Sorland with city ID:3137469 was found in the Weathermap API
+Lebu with city ID:3883457 was found in the Weathermap API
+Guerrero Negro with city ID:4021858 was found in the Weathermap API
+Isangel with city ID:2136825 was found in the Weathermap API
+sento se,br was not found in the Weathermap API
+Bengkulu with city ID:1649150 was found in the Weathermap API
+Bonthe with city ID:2409914 was found in the Weathermap API
+grand river south east,mu was not found in the Weathermap API
+Hirson with city ID:3013258 was found in the Weathermap API
+Rosetta with city ID:350203 was found in the Weathermap API
+Kirakira with city ID:2178753 was found in the Weathermap API
+Mustvee with city ID:590067 was found in the Weathermap API
+Kloulklubed with city ID:7671223 was found in the Weathermap API
+Rawson with city ID:3839307 was found in the Weathermap API
+tsienyane,bw was not found in the Weathermap API
+Tuatapere with city ID:2180815 was found in the Weathermap API
+Iracoubo with city ID:3381428 was found in the Weathermap API
+Udon Thani with city ID:1605239 was found in the Weathermap API
+saint anthony,ca was not found in the Weathermap API
+Touros with city ID:3386213 was found in the Weathermap API
+Ishim with city ID:1505453 was found in the Weathermap API
+Fortuna with city ID:5563839 was found in the Weathermap API
+Santa Rosa with city ID:3904793 was found in the Weathermap API
+Alofi with city ID:4036284 was found in the Weathermap API
+Ola with city ID:3703745 was found in the Weathermap API
+longlac,ca was not found in the Weathermap API
+Hasaki with city ID:2112802 was found in the Weathermap API
+Breves with city ID:3404817 was found in the Weathermap API
+Severo-Kuril'sk with city ID:2121385 was found in the Weathermap API
+artyk,ru was not found in the Weathermap API
+Oxford with city ID:2185148 was found in the Weathermap API
+Berlevag with city ID:780687 was found in the Weathermap API
+Komsomolskiy with city ID:545728 was found in the Weathermap API
+Yumen with city ID:1528998 was found in the Weathermap API
+Isil'kul' with city ID:1505438 was found in the Weathermap API
+Teahupoo with city ID:4033543 was found in the Weathermap API
+Alghero with city ID:3183284 was found in the Weathermap API
+College with city ID:5859699 was found in the Weathermap API
+Eyl with city ID:60019 was found in the Weathermap API
+Yeppoon with city ID:2142316 was found in the Weathermap API
+Sitka with city ID:5557293 was found in the Weathermap API
+Olafsvik with city ID:3414079 was found in the Weathermap API
+Guayaramerin with city ID:3915350 was found in the Weathermap API
+Slave Lake with city ID:6149374 was found in the Weathermap API
+banmo,mm was not found in the Weathermap API
+Paulo Ramos with city ID:3392731 was found in the Weathermap API
+Katherine with city ID:2068655 was found in the Weathermap API
+Haines Junction with city ID:5969025 was found in the Weathermap API
+Ilulissat with city ID:3423146 was found in the Weathermap API
+Ust'-Kulom with city ID:478050 was found in the Weathermap API
+Matonga with city ID:154576 was found in the Weathermap API
+Meulaboh with city ID:1214488 was found in the Weathermap API
+tumannyy,ru was not found in the Weathermap API
+utiroa,ki was not found in the Weathermap API
+Mao with city ID:2428394 was found in the Weathermap API
+codrington,ag was not found in the Weathermap API
+Upernavik with city ID:3418910 was found in the Weathermap API
+Ilebo with city ID:215976 was found in the Weathermap API
+belushya guba,ru was not found in the Weathermap API
+Viedma with city ID:3832899 was found in the Weathermap API
+Lompoc with city ID:5367788 was found in the Weathermap API
+Sioux Lookout with city ID:6148373 was found in the Weathermap API
+Nizhniy Kuranakh with city ID:2019135 was found in the Weathermap API
+paradwip,in was not found in the Weathermap API
+Mitu with city ID:3674676 was found in the Weathermap API
+Sept-Iles with city ID:6144312 was found in the Weathermap API
+Chumikan with city ID:2025256 was found in the Weathermap API
+Porto Novo with city ID:3374336 was found in the Weathermap API
+Plouzane with city ID:2986626 was found in the Weathermap API
+Baghdad with city ID:98182 was found in the Weathermap API
+Fresnillo with city ID:4006163 was found in the Weathermap API
+Ostrovnoy with city ID:556268 was found in the Weathermap API
+Mildura with city ID:2157698 was found in the Weathermap API
+Yar-Sale with city ID:1486321 was found in the Weathermap API
+Baykit with city ID:1510689 was found in the Weathermap API
+Cabra with city ID:1721491 was found in the Weathermap API
+Tezu with city ID:1254709 was found in the Weathermap API
+Kiruna with city ID:605155 was found in the Weathermap API
+Santa Cruz with city ID:3621607 was found in the Weathermap API
+Songjianghe with city ID:2034691 was found in the Weathermap API
+Cairns with city ID:2172797 was found in the Weathermap API
+Broome with city ID:2075720 was found in the Weathermap API
+Coquimbo with city ID:3893629 was found in the Weathermap API
+barawe,so was not found in the Weathermap API
+Kahului with city ID:5847411 was found in the Weathermap API
+Mecca with city ID:104515 was found in the Weathermap API
+Lichinga with city ID:1043893 was found in the Weathermap API
+Rafaela with city ID:3839479 was found in the Weathermap API
+tabiauea,ki was not found in the Weathermap API
+Cabo San Lucas with city ID:3985710 was found in the Weathermap API
+Quime with city ID:3906765 was found in the Weathermap API
+Sakakah with city ID:102527 was found in the Weathermap API
+Klaksvik with city ID:2618795 was found in the Weathermap API
+San Patricio with city ID:3985168 was found in the Weathermap API
+Areka with city ID:343593 was found in the Weathermap API
+Chapais with city ID:5919850 was found in the Weathermap API
+Vardo with city ID:777019 was found in the Weathermap API
+Lumby with city ID:6061958 was found in the Weathermap API
+Saint-Pierre with city ID:3424934 was found in the Weathermap API
+Launceston with city ID:2160517 was found in the Weathermap API
+Cherskiy with city ID:2126199 was found in the Weathermap API
+Fairbanks with city ID:5861897 was found in the Weathermap API
+Aberfeldy with city ID:2657820 was found in the Weathermap API
+Dawlatabad with city ID:1142226 was found in the Weathermap API
+Iqaluit with city ID:5983720 was found in the Weathermap API
+Ormara with city ID:1168700 was found in the Weathermap API
+Jerome with city ID:5597034 was found in the Weathermap API
+Pecos with city ID:5528182 was found in the Weathermap API
+Saskylakh with city ID:2017155 was found in the Weathermap API
+Sisimiut with city ID:3419842 was found in the Weathermap API
+Pangnirtung with city ID:6096551 was found in the Weathermap API
+vila,vu was not found in the Weathermap API
+New Norfolk with city ID:2155415 was found in the Weathermap API
+Halvad with city ID:1270466 was found in the Weathermap API
+Aitape with city ID:2101169 was found in the Weathermap API
+Labuhan with city ID:8079926 was found in the Weathermap API
+Poum with city ID:2138555 was found in the Weathermap API
+Grand Gaube with city ID:934479 was found in the Weathermap API
+Raduzhny with city ID:1540356 was found in the Weathermap API
+Ciudad de Armeria with city ID:4018227 was found in the Weathermap API
+Nikitinskiy with city ID:1497736 was found in the Weathermap API
+Nome with city ID:5870133 was found in the Weathermap API
+nizhneyansk,ru was not found in the Weathermap API
+Lopik with city ID:2751436 was found in the Weathermap API
+Cockburn Town with city ID:3576994 was found in the Weathermap API
+Perry with city ID:4303951 was found in the Weathermap API
+Kenora with city ID:5991056 was found in the Weathermap API
+Kattivakkam with city ID:1267433 was found in the Weathermap API
+Coyhaique with city ID:3894426 was found in the Weathermap API
+Ngara with city ID:151711 was found in the Weathermap API
+Vilyuysk with city ID:2013392 was found in the Weathermap API
+Gerash with city ID:133595 was found in the Weathermap API
+Vrangel with city ID:2013258 was found in the Weathermap API
+Akdagmadeni with city ID:324768 was found in the Weathermap API
+Arraial do Cabo with city ID:3471451 was found in the Weathermap API
+Zapolyarnyy with city ID:464790 was found in the Weathermap API
+Camacha with city ID:2270385 was found in the Weathermap API
+Milici with city ID:3195128 was found in the Weathermap API
+Shimoda with city ID:1852357 was found in the Weathermap API
+Zhalantun with city ID:2033225 was found in the Weathermap API
+tabulbah,tn was not found in the Weathermap API
+Padang with city ID:1633419 was found in the Weathermap API
+Miraflores with city ID:3674740 was found in the Weathermap API
+Dubbo with city ID:2168305 was found in the Weathermap API
+Port Macquarie with city ID:2152659 was found in the Weathermap API
+tungkang,tw was not found in the Weathermap API
+Ishigaki with city ID:1861416 was found in the Weathermap API
+Srednekolymsk with city ID:2121025 was found in the Weathermap API
+Versalles with city ID:3666102 was found in the Weathermap API
+Ancud with city ID:3899695 was found in the Weathermap API
+Gorele with city ID:746565 was found in the Weathermap API
+Richards Bay with city ID:962367 was found in the Weathermap API
+Gewane with city ID:336745 was found in the Weathermap API
+Papenburg with city ID:2855525 was found in the Weathermap API
+Road Town with city ID:3577430 was found in the Weathermap API
+Lavrentiya with city ID:4031637 was found in the Weathermap API
+Kajaani with city ID:654901 was found in the Weathermap API
+Parit Buntar with city ID:1735089 was found in the Weathermap API
+Camocim with city ID:3403687 was found in the Weathermap API
+Sambava with city ID:1056899 was found in the Weathermap API
+Tagusao with city ID:1684245 was found in the Weathermap API
+Charlottesville with city ID:4752031 was found in the Weathermap API
+Florianopolis with city ID:6323121 was found in the Weathermap API
+Eston with city ID:5949601 was found in the Weathermap API
+Huaihua with city ID:1807689 was found in the Weathermap API
+Baturaja with city ID:1649593 was found in the Weathermap API
+Doha with city ID:290030 was found in the Weathermap API
+Palmer with city ID:4946620 was found in the Weathermap API
+Abalak with city ID:2448245 was found in the Weathermap API
+Saint-Augustin with city ID:6137462 was found in the Weathermap API
+Redlands with city ID:5386754 was found in the Weathermap API
+Maniitsoq with city ID:3421982 was found in the Weathermap API
+Malanje with city ID:2239862 was found in the Weathermap API
+Sidney with city ID:5172078 was found in the Weathermap API
+Ucluelet with city ID:6171633 was found in the Weathermap API
+Nanortalik with city ID:3421765 was found in the Weathermap API
+Nishihara with city ID:1855342 was found in the Weathermap API
+Bom Jesus with city ID:3405304 was found in the Weathermap API
+Araouane with city ID:2460954 was found in the Weathermap API
+Qaanaaq with city ID:3831208 was found in the Weathermap API
+Cap Malheureux with city ID:934649 was found in the Weathermap API
+La Ronge with city ID:6050066 was found in the Weathermap API
+Norman Wells with city ID:6089245 was found in the Weathermap API
+Emerald with city ID:2167426 was found in the Weathermap API
+Saint George with city ID:3573061 was found in the Weathermap API
+Lagoa with city ID:3372964 was found in the Weathermap API
+Novosil with city ID:517947 was found in the Weathermap API
+Kalevala with city ID:554318 was found in the Weathermap API
+Port Elizabeth with city ID:964420 was found in the Weathermap API
+Port Moresby with city ID:2088122 was found in the Weathermap API
+Turukhansk with city ID:1488903 was found in the Weathermap API
+Kitimat with city ID:5993072 was found in the Weathermap API
+Newtownards with city ID:2641519 was found in the Weathermap API
+Vanavara with city ID:2013727 was found in the Weathermap API
+Kudahuvadhoo with city ID:1337607 was found in the Weathermap API
+The Valley with city ID:3573374 was found in the Weathermap API
+Flin Flon with city ID:5954718 was found in the Weathermap API
+Seoul with city ID:1835848 was found in the Weathermap API
+Roanoke Rapids with city ID:4488232 was found in the Weathermap API
+Hambantota with city ID:1244926 was found in the Weathermap API
+Spiridonovka with city ID:489701 was found in the Weathermap API
+Kautokeino with city ID:779330 was found in the Weathermap API
+Changji with city ID:1529569 was found in the Weathermap API
+Bathsheba with city ID:3374083 was found in the Weathermap API
+Manokwari with city ID:1636308 was found in the Weathermap API
+lolua,tv was not found in the Weathermap API
+Batagay-Alyta with city ID:2027042 was found in the Weathermap API
+Okha with city ID:2122614 was found in the Weathermap API
+wahran,dz was not found in the Weathermap API
+Quesnel with city ID:6115187 was found in the Weathermap API
+Muisne with city ID:3653967 was found in the Weathermap API
+Mangrol with city ID:1263752 was found in the Weathermap API
+Port-Cartier with city ID:6111696 was found in the Weathermap API
+Resistencia with city ID:3429577 was found in the Weathermap API
+Lorengau with city ID:2092164 was found in the Weathermap API
+Kasongo-Lunda with city ID:2315026 was found in the Weathermap API
+Namatanai with city ID:2090021 was found in the Weathermap API
+Sao Filipe with city ID:3374210 was found in the Weathermap API
+El Monte with city ID:3890949 was found in the Weathermap API
+Santa Barbara with city ID:3984629 was found in the Weathermap API
+Yining with city ID:1786538 was found in the Weathermap API
+Elizabeth City with city ID:4465088 was found in the Weathermap API
+Bay City with city ID:4985180 was found in the Weathermap API
+Jalu with city ID:86049 was found in the Weathermap API
+Salalah with city ID:286621 was found in the Weathermap API
+Terra Santa with city ID:3386467 was found in the Weathermap API
+Tual with city ID:1623197 was found in the Weathermap API
+Barra Patuca with city ID:3614835 was found in the Weathermap API
+yirol,sd was not found in the Weathermap API
+Nangomba with city ID:877597 was found in the Weathermap API
+Antofagasta with city ID:3899539 was found in the Weathermap API
+Victoria with city ID:241131 was found in the Weathermap API
+Chik with city ID:1507873 was found in the Weathermap API
+Tahoua with city ID:2439376 was found in the Weathermap API
+chagda,ru was not found in the Weathermap API
+Ayan with city ID:2027316 was found in the Weathermap API
+lasa,cn was not found in the Weathermap API
+saryshagan,kz was not found in the Weathermap API
+Dali with city ID:1814093 was found in the Weathermap API
+Olga with city ID:2018553 was found in the Weathermap API
+Hanmer Springs with city ID:2190299 was found in the Weathermap API
+Sylacauga with city ID:4092671 was found in the Weathermap API
+Ramganj Mandi with city ID:1258692 was found in the Weathermap API
+Elko with city ID:5703673 was found in the Weathermap API
+Bubaque with city ID:2374583 was found in the Weathermap API
+rungata,ki was not found in the Weathermap API
+Xiongyue with city ID:2033630 was found in the Weathermap API
+Amahai with city ID:1651591 was found in the Weathermap API
+Takoradze with city ID:2294915 was found in the Weathermap API
+Mala Tokmachka with city ID:702153 was found in the Weathermap API
+Vestmannaeyjar with city ID:3412093 was found in the Weathermap API
+Bakchar with city ID:1511057 was found in the Weathermap API
+Hamilton with city ID:3573197 was found in the Weathermap API
+Harrisburg with city ID:5192726 was found in the Weathermap API
+Lyman with city ID:704204 was found in the Weathermap API
+Grindavik with city ID:3416888 was found in the Weathermap API
+Puerto Leguizamo with city ID:3671437 was found in the Weathermap API
+Fukuecho with city ID:1863997 was found in the Weathermap API
+Karagay with city ID:552887 was found in the Weathermap API
+jarjis,tn was not found in the Weathermap API
+Nandurbar with city ID:1261931 was found in the Weathermap API
+Puerto Carreno with city ID:3671519 was found in the Weathermap API
+faya,td was not found in the Weathermap API
+Kidodi with city ID:157826 was found in the Weathermap API
+Mount Isa with city ID:2065594 was found in the Weathermap API
+Port Shepstone with city ID:964406 was found in the Weathermap API
+Andilamena with city ID:1076194 was found in the Weathermap API
+Kota Belud with city ID:1736660 was found in the Weathermap API
+Sibolga with city ID:1213855 was found in the Weathermap API
+Monrovia with city ID:2274895 was found in the Weathermap API
+Barcelona with city ID:3648559 was found in the Weathermap API
+San Jose with city ID:3590069 was found in the Weathermap API
+Orlik with city ID:1496073 was found in the Weathermap API
+Vila Franca do Campo with city ID:3372472 was found in the Weathermap API
+nioro,ml was not found in the Weathermap API
+Goure with city ID:2444219 was found in the Weathermap API
+Pervomayskiy with city ID:510911 was found in the Weathermap API
+Kutum with city ID:371745 was found in the Weathermap API
+Batagay with city ID:2027044 was found in the Weathermap API
+qurayyat,om was not found in the Weathermap API
+Teguise with city ID:2510573 was found in the Weathermap API
+Huangnihe with city ID:2036734 was found in the Weathermap API
+Champerico with city ID:3598787 was found in the Weathermap API
+Beyneu with city ID:610298 was found in the Weathermap API
+Kazanskaya with city ID:551439 was found in the Weathermap API
+Anshun with city ID:1817968 was found in the Weathermap API
+Kuantan with city ID:1735227 was found in the Weathermap API
+tsihombe,mg was not found in the Weathermap API
+Sakaiminato with city ID:1853174 was found in the Weathermap API
+Bogande with city ID:2362323 was found in the Weathermap API
+Bambous Virieux with city ID:1106677 was found in the Weathermap API
+Rafai with city ID:236524 was found in the Weathermap API
+Cervo with city ID:3125287 was found in the Weathermap API
+Kavaratti with city ID:1267390 was found in the Weathermap API
+Puerto Rondon with city ID:3671337 was found in the Weathermap API
+Auki with city ID:2109701 was found in the Weathermap API
+San Rafael with city ID:3909011 was found in the Weathermap API
+Ugoofaaru with city ID:1337619 was found in the Weathermap API
+zolotinka,ru was not found in the Weathermap API
+Sault Ste. Marie with city ID:6141439 was found in the Weathermap API
+Tabas with city ID:113659 was found in the Weathermap API
+Carlisle with city ID:5183234 was found in the Weathermap API
+duz,tn was not found in the Weathermap API
+Safi with city ID:2537881 was found in the Weathermap API
+Havre-Saint-Pierre with city ID:5972291 was found in the Weathermap API
+Tucuma with city ID:3385980 was found in the Weathermap API
+tokmak,kg was not found in the Weathermap API
+Rapid Valley with city ID:5768244 was found in the Weathermap API
+marv dasht,ir was not found in the Weathermap API
+Pimentel with city ID:3693584 was found in the Weathermap API
+Rock Sound with city ID:3571592 was found in the Weathermap API
+Belaya Gora with city ID:2126785 was found in the Weathermap API
+Qasigiannguit with city ID:3420768 was found in the Weathermap API
+Okhotsk with city ID:2122605 was found in the Weathermap API
+Naron with city ID:3115739 was found in the Weathermap API
+Peterhead with city ID:2640351 was found in the Weathermap API
+Kaltasy with city ID:553929 was found in the Weathermap API
+Vranjska Banja with city ID:784222 was found in the Weathermap API
+Kuah with city ID:1222396 was found in the Weathermap API
+Joacaba with city ID:3459869 was found in the Weathermap API
+Manadhoo with city ID:1337618 was found in the Weathermap API
+Davila with city ID:1715335 was found in the Weathermap API
+Kismayo with city ID:55671 was found in the Weathermap API
+marcona,pe was not found in the Weathermap API
+Banepa with city ID:1283679 was found in the Weathermap API
+Benguela with city ID:3351663 was found in the Weathermap API
+blonduos,is was not found in the Weathermap API
+Abu Zabad with city ID:380348 was found in the Weathermap API
+Laguna with city ID:3459094 was found in the Weathermap API
+Mayumba with city ID:2399001 was found in the Weathermap API
+Bariloche with city ID:7647007 was found in the Weathermap API
+Arlit with city ID:2447513 was found in the Weathermap API
+Nouakchott with city ID:2377450 was found in the Weathermap API
+Genhe with city ID:2037252 was found in the Weathermap API
+Nautla with city ID:3522788 was found in the Weathermap API
+Port Hardy with city ID:6111862 was found in the Weathermap API
+Neiafu with city ID:4032420 was found in the Weathermap API
+Merowe with city ID:370481 was found in the Weathermap API
+Coos Bay with city ID:5720495 was found in the Weathermap API
+Tanhacu with city ID:3446971 was found in the Weathermap API
+lata,sb was not found in the Weathermap API
+Hidalgotitlan with city ID:3527113 was found in the Weathermap API
+Sirte with city ID:2210554 was found in the Weathermap API
+Palembang with city ID:1633070 was found in the Weathermap API
+Sao Jose da Coroa Grande with city ID:3388456 was found in the Weathermap API
+Aykhal with city ID:2027296 was found in the Weathermap API
+Garoowe with city ID:58933 was found in the Weathermap API
+Isiro with city ID:215771 was found in the Weathermap API
+Gao with city ID:2457161 was found in the Weathermap API
+Nadvoitsy with city ID:523662 was found in the Weathermap API
+Nantucket with city ID:4944903 was found in the Weathermap API
+Ban Dung with city ID:1619650 was found in the Weathermap API
+Puerto Narino with city ID:3671387 was found in the Weathermap API
+Bhadrachalam with city ID:1276328 was found in the Weathermap API
+Salinas with city ID:3652100 was found in the Weathermap API
+Hokitika with city ID:2206894 was found in the Weathermap API
+Sarkand with city ID:1519691 was found in the Weathermap API
+Panaba with city ID:3521972 was found in the Weathermap API
+San Francisco with city ID:3837675 was found in the Weathermap API
+zhemchuzhnyy,ru was not found in the Weathermap API
+Borisovka with city ID:805775 was found in the Weathermap API
+Vestmanna with city ID:2610343 was found in the Weathermap API
+babanusah,sd was not found in the Weathermap API
+Mae Sai with city ID:1152194 was found in the Weathermap API
+Kleitos with city ID:735682 was found in the Weathermap API
+Utete with city ID:149070 was found in the Weathermap API
+Tura with city ID:2014833 was found in the Weathermap API
+'Ewa Beach with city ID:5855051 was found in the Weathermap API
+Broken Hill with city ID:2173911 was found in the Weathermap API
+Calbuco with city ID:3897334 was found in the Weathermap API
+Yulara with city ID:6355222 was found in the Weathermap API
+Tuy Hoa with city ID:1563281 was found in the Weathermap API
+Oranjemund with city ID:3354071 was found in the Weathermap API
+Flinders with city ID:6255012 was found in the Weathermap API
+Puerto Palomas with city ID:3991350 was found in the Weathermap API
+Kulevcha with city ID:705442 was found in the Weathermap API
+Ofunato with city ID:2111530 was found in the Weathermap API
+Hay River with city ID:5972762 was found in the Weathermap API
+Saint-Leu with city ID:6690297 was found in the Weathermap API
+Dwarka with city ID:1272140 was found in the Weathermap API
+Caraballeda with city ID:3646767 was found in the Weathermap API
+Belmonte with city ID:3470137 was found in the Weathermap API
+Qui Nhon with city ID:1568574 was found in the Weathermap API
+Waingapu with city ID:1622318 was found in the Weathermap API
+Westport with city ID:2960970 was found in the Weathermap API
+Sfantu Gheorghe with city ID:667303 was found in the Weathermap API
+New Iberia with city ID:4334971 was found in the Weathermap API
+Dhanaura with city ID:1272983 was found in the Weathermap API
+Buchanan with city ID:2278158 was found in the Weathermap API
+Abha with city ID:110690 was found in the Weathermap API
+Anchorage with city ID:5879400 was found in the Weathermap API
+Biak with city ID:1637001 was found in the Weathermap API
+kapoeta,sd was not found in the Weathermap API
+Husavik with city ID:2629833 was found in the Weathermap API
+Dunedin with city ID:2191562 was found in the Weathermap API
+Kibungo with city ID:202068 was found in the Weathermap API
+Namie with city ID:2111704 was found in the Weathermap API
+Waconia with city ID:5051640 was found in the Weathermap API
+San Borja with city ID:3905792 was found in the Weathermap API
+Pindiga with city ID:2324857 was found in the Weathermap API
+Chui with city ID:3443061 was found in the Weathermap API
+Turaif with city ID:101312 was found in the Weathermap API
+Soyo with city ID:2236967 was found in the Weathermap API
+Kandrian with city ID:2094746 was found in the Weathermap API
+Punta Gorda with city ID:3581398 was found in the Weathermap API
+Imperatriz with city ID:3398269 was found in the Weathermap API
+paucartambo,pe was not found in the Weathermap API
+avera,pf was not found in the Weathermap API
+Hobyo with city ID:57000 was found in the Weathermap API
+Conceicao do Mato Dentro with city ID:3465745 was found in the Weathermap API
+Ust'-Omchug with city ID:2120047 was found in the Weathermap API
+Bay Roberts with city ID:5895424 was found in the Weathermap API
+Mossamedes with city ID:3347019 was found in the Weathermap API
+Nelson Bay with city ID:2155562 was found in the Weathermap API
+Nizhniy Ingash with city ID:1497497 was found in the Weathermap API
+Bertoua with city ID:2234359 was found in the Weathermap API
+Sapulpa with city ID:4550881 was found in the Weathermap API
+Diamantino with city ID:3464724 was found in the Weathermap API
+Vila Velha with city ID:3445026 was found in the Weathermap API
+Berdychiv with city ID:712441 was found in the Weathermap API
+Cabedelo with city ID:3404558 was found in the Weathermap API
+Iwanai with city ID:2129868 was found in the Weathermap API
+Tautira with city ID:4033557 was found in the Weathermap API
+Lampang with city ID:1152472 was found in the Weathermap API
+Jiuquan with city ID:1279945 was found in the Weathermap API
+Plettenberg Bay with city ID:964712 was found in the Weathermap API
+Luderitz with city ID:3355672 was found in the Weathermap API
+Mindelo with city ID:3374462 was found in the Weathermap API
+Dakar with city ID:2253354 was found in the Weathermap API
+grande-riviere,ca was not found in the Weathermap API
+Aquiraz with city ID:3407407 was found in the Weathermap API
+umzimvubu,za was not found in the Weathermap API
+chupei,tw was not found in the Weathermap API
+Mega with city ID:331259 was found in the Weathermap API
+Chissamba with city ID:3349580 was found in the Weathermap API
+Fonte Boa with city ID:6319315 was found in the Weathermap API
+Hofn with city ID:2630299 was found in the Weathermap API
+Karlstad with city ID:2701680 was found in the Weathermap API
+Searcy with city ID:4130430 was found in the Weathermap API
+Daokou with city ID:1813775 was found in the Weathermap API
+Huarmey with city ID:3939168 was found in the Weathermap API
+Kharp with city ID:1503726 was found in the Weathermap API
+kamenskoye,ru was not found in the Weathermap API
+Wajima with city ID:1848976 was found in the Weathermap API
+Valparaiso with city ID:3868626 was found in the Weathermap API
+sorvag,fo was not found in the Weathermap API
+High Prairie with city ID:5975034 was found in the Weathermap API
+Estacion Coahuila with city ID:3979494 was found in the Weathermap API
+Gilgit with city ID:1178338 was found in the Weathermap API
+Petropavlovsk-Kamchatsky with city ID:2122104 was found in the Weathermap API
+dzhusaly,kz was not found in the Weathermap API
+Sucua with city ID:3650956 was found in the Weathermap API
+Nurota with city ID:1513087 was found in the Weathermap API
+Praia with city ID:3374333 was found in the Weathermap API
+Listvyanka with city ID:2020744 was found in the Weathermap API
+Poperinge with city ID:2788727 was found in the Weathermap API
+Half Moon Bay with city ID:5354943 was found in the Weathermap API
+Ahipara with city ID:2194098 was found in the Weathermap API
+Lakselv with city ID:779082 was found in the Weathermap API
+Teguldet with city ID:1489822 was found in the Weathermap API
+gurgan,az was not found in the Weathermap API
+Terrace with city ID:6162949 was found in the Weathermap API
+Dekar with city ID:933815 was found in the Weathermap API
+Hohhot with city ID:2036892 was found in the Weathermap API
+Turbat with city ID:1163054 was found in the Weathermap API
+Arti with city ID:580783 was found in the Weathermap API
+kegayli,uz was not found in the Weathermap API
